@@ -1,0 +1,9 @@
+# Python
+*.pyc
+
+# Vim
+*~
+*.swp
+
+# JetBrains
+.idea/
